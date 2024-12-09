@@ -1,0 +1,24 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/CtrlShiftRegister_tb.v,1732863185,verilog,,,,CtrlShiftRegister_tb,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/FFT_32TB.v,1733305404,verilog,,,,FFT_32TB,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/FFT_Stage1_tb.v,1732961996,verilog,,,,FFT_Stage1_tb,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/FFT_Stage2_tb.v,1733139465,verilog,,,,FFT_Stage2_tb,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/MAC_tb.v,1732862934,verilog,,,,MAC_tb,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/Mux_4_1_tb.v,1732862193,verilog,,,,Mux_4_1_tb,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/Mux_6_2_tb.v,1732862633,verilog,,,,Mux_6_2_tb,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/fixed_point_mul_tb.v,1732862387,verilog,,,,fixed_point_mul_tb,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/CtrlShiftRegister.v,1732863066,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v,,CtrlShiftRegister,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v,1733235922,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage1.v,,FFT_32,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage1.v,1732961095,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage2.v,,FFT_Stage1,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage2.v,1732962571,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage3.v,,FFT_Stage2,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage3.v,1733141603,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage4.v,,FFT_Stage3,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage4.v,1733144412,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage5.v,,FFT_Stage4,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_Stage5.v,1733141760,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/MAC.v,,FFT_Stage5,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/MAC.v,1732863826,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/Mux_4_1.v,,MAC,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/Mux_4_1.v,1732862098,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/Mux_6_2.v,,Mux_4_1,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/Mux_6_2.v,1732863839,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/fixed_point_mul.v,,Mux_6_2,,,,,,,,
+C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/fixed_point_mul.v,1732862453,verilog,,C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sim_1/new/FFT_32TB.v,,fixed_point_mul,,,,,,,,

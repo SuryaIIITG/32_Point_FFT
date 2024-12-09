@@ -1,0 +1,7 @@
+Running: xsim.dir/FFT_Stage2_behav/xsimk.exe -simmode gui -wdb FFT_Stage2_behav.wdb -simrunnum 0 -socket 58193
+Design successfully loaded
+Design Loading Memory Usage: 7168 KB (Peak: 7168 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7684 KB (Peak: 7684 KB)
+Simulation CPU Usage: 15 ms

@@ -1,0 +1,89 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot FFT_32TB_behav xil_defaultlib.FFT_32TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:225]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:226]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:227]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:228]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:229]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:230]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:231]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:232]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:233]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:234]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:235]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:236]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:237]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:238]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:239]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:240]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:241]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:242]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:243]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:244]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:245]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:246]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:247]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:248]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:249]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:250]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:251]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:252]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:253]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:254]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:255]
+WARNING: [VRFC 10-9986] replication constant must be positive [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:256]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.CtrlShiftRegister(CLK_CYCLES=4)
+Compiling module xil_defaultlib.Mux_6_2(INTEGER=16)
+Compiling module xil_defaultlib.fixed_point_mul(INTEGER=16)
+Compiling module xil_defaultlib.Mux_4_1
+Compiling module xil_defaultlib.MAC(INTEGER=16)
+Compiling module xil_defaultlib.FFT_Stage1
+Compiling module xil_defaultlib.FFT_Stage2(INTEGER=16)
+Compiling module xil_defaultlib.FFT_Stage3(DATA_WIDTH=32,INTEGER...
+Compiling module xil_defaultlib.FFT_Stage4(DATA_WIDTH=32,INTEGER...
+Compiling module xil_defaultlib.FFT_Stage5(DATA_WIDTH=32,INTEGER...
+Compiling module xil_defaultlib.FFT_32
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:225]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:226]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:227]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:228]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:229]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:230]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:231]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:232]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:233]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:234]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:235]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:236]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:237]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:238]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:239]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:240]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:241]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:242]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:243]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:244]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:245]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:246]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:247]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:248]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:249]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:250]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:251]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:252]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:253]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:254]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:255]
+WARNING: [VRFC 10-9985] replication constant is negative, considering zero [C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.srcs/sources_1/new/FFT_32.v:256]
+Compiling module xil_defaultlib.FFT_32TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot FFT_32TB_behav

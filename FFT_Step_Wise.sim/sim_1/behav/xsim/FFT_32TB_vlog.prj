@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/CtrlShiftRegister.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/FFT_32.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/FFT_Stage1.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/FFT_Stage2.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/FFT_Stage3.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/FFT_Stage4.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/FFT_Stage5.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/MAC.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/Mux_4_1.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/Mux_6_2.v" \
+"../../../../FFT_Step_Wise.srcs/sources_1/new/fixed_point_mul.v" \
+"../../../../FFT_Step_Wise.srcs/sim_1/new/FFT_32TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

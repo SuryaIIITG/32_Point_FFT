@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Dec  3 18:49:31 2024
+# Process ID: 30444
+# Current directory: C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.sim/sim_1/behav/xsim/xsim.dir/FFT_32TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/surya/FFT_Step_Wise/FFT_Step_Wise.sim/sim_1/behav/xsim/xsim.dir/FFT_32TB_behav/webtalk/xsim_webtalk.tcl -notrace
